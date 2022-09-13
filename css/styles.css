@@ -1,9 +1,10 @@
+
 body{
     
     justify-content: center;
     align-items: center;
     max-width: 1000vh;
-    margin: 3%;
+    margin: 10%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1{
